@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "username": "rosa",
+        "password_hash": "c6c910c0d1ed1ac97c726d28d21e753d075acfc6d156c8512d342cf4b1b78d0d",
+        "tipo": "user",
+        "nome_completo": "rosa"
+    }
+]
