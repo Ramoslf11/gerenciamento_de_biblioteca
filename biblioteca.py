@@ -102,7 +102,7 @@ while True:
                     elif opc_adm == "2":
                         Acervo_livros()
                     elif opc_adm == "3":    
-                        relatorio_livros()
+                        relatorio_emprestimo()
                     elif opc_adm == "4":
                         sair()
                     else:
